@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #89694f;
+}
+
+/* Стилі для заголовка h1 */
+h1 {
+    color: #333;
+}
+
+/* Стилі для параграфів */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #070404;
+}
+
+/* Стилі для посилань */
+a {
+    color: #007bff;
+}
+
+/* Стилі для навігаційних посилань */
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #080808;
+    font-weight: bold;
+}
+
+/* Стилі для основного контейнера з ідентифікатором "main-container" */
+#main-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
